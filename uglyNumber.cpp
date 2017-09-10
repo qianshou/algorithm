@@ -4,7 +4,7 @@
 * 判断丑树的方式是分别除尽所有的2,3,5因子
 * 然后判断剩余数字是否为1
 * 一般解法是计算从1到N的所有丑数，并输出第N个
-/
+*/
 #include <iostream>
 using namespace std;
 bool uglyNum(int num){
